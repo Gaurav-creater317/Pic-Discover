@@ -31,12 +31,6 @@ The app calls the Unsplash Search API with that query
 Images are displayed dynamically using JavaScript
 Users can click "Show More" to fetch the next page of results
 📷
- 
-
-🧪 Live Demo
-🔗 Try it out live
-
-💻 View Source Code on GitHub
 
 🧠 What I Learned
 This project helped me understand:
