@@ -52,3 +52,5 @@ Pic Discover App was a great way to dive deeper into frontend development while 
 If you’re looking to learn APIs or just want a fun UI project, try recreating this — it’s a rewarding experience!
 
 # Thanks for reading, and let me know your thoughts or suggestions in the comments 💬
+
+ # ✨ Feel free to fork and star this repository if you like it !
